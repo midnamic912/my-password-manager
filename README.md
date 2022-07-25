@@ -16,5 +16,6 @@
 ```
 git clone https://github.com/midnamic912/my-password-manager.git
 cd my-password-manager
+python3 -m pip install pyperclip
 python main.py
 ```
