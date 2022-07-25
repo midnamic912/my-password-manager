@@ -11,10 +11,10 @@
 <li>TKinter</li>
 
 <h3>How to Run the App(on MacOS):</h3>
-<li> Clone the entire repo </li>
-<li> Open your Terminal: </li>
+<li> Run the command line: </li>
 
 ```
-$cd <path of the cloned repo>
-$python main.py
+git clone https://github.com/midnamic912/my-password-manager.git
+cd my-password-manager
+python main.py
 ```
