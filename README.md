@@ -1,4 +1,4 @@
-# my-password-manager
+# My Password Manager
 <h3>Your cute cat password manager is here for you to keep your top secrets.</h3>
 <img src="https://i.imgur.com/OMubfku.png" width="500">
 <img src="https://i.imgur.com/HoEFLcU.png" width="500">
